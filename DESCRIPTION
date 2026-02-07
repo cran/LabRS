@@ -1,17 +1,22 @@
 Package: LabRS
 Type: Package
-Title: Laboratorio di "Ricerca Sociale con R"
-Version: 0.1.0
-Author: Agnese Vardanega
-Maintainer: Agnese Vardanega <avardanega@unite.it>
-URL: https://www.agnesevardanega.eu/
+Title: Laboratorio di Ricerca Sociale con R
+Version: 0.2.0
+URL: http://www.agnesevardanega.eu/
 Depends: knitr
 Suggests: Rcmdr
-Description: Dati, scripts e funzioni per il libro "Ricerca sociale con R. Concetti e funzioni base per la ricerca sociale" (Datasets, scripts and functions to support the book "Ricerca sociale con R. Concetti e funzioni base per la ricerca sociale"). 
-License: GPL (>= 3)
+Description: Libreria di dati, scripts e funzioni che accompagna il libro "Ricerca sociale con R. Concetti e funzioni base per la ricerca sociale".
+License: GPL-3
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.3.3
+Authors@R: person(given = "Agnese", family = "Vardanega", 
+           email = "avardanega@unite.it", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1419-9896"))
 NeedsCompilation: no
-Packaged: 2018-11-29 15:43:44 UTC; avard
+Packaged: 2026-02-06 18:59:05 UTC; avard
+Author: Agnese Vardanega [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-1419-9896>)
+Maintainer: Agnese Vardanega <avardanega@unite.it>
 Repository: CRAN
-Date/Publication: 2018-12-18 09:10:09 UTC
+Date/Publication: 2026-02-07 11:30:11 UTC
