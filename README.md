@@ -1,4 +1,10 @@
 # LabRS
+
+![CRAN status](https://www.r-pkg.org/badges/version/LabRS) 
+[![DOI](https://img.shields.io/badge/DOI-10.32614/CRAN.package.LabRS-blue.svg)](https://doi.org/10.32614/CRAN.package.LabRS) 
+[![License:
+GPL-3](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://opensource.org/license/gpl-3-0) 
+
 Libreria per il libro "Ricerca sociale con R"
 
 Libreria di funzioni, scripts e dati che accompagna il testo "Ricerca sociale con R", introduzione ai concetti e alle funzioni di R per la ricerca sociale.
